@@ -9,7 +9,8 @@ int main(){
 
     int d = 20;
     int e = ++d;
-    cout << "e = " << endl;
+    cout << "d = " << d << endl;
+    cout << "e = " << e << endl;
 
     return 0;
 }
