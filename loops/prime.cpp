@@ -14,9 +14,7 @@ int main(){
         }else{
             i++;
         }
-    
-    }
-    if(isPrime==true){
+    }if(isPrime==true){
         cout << n << " is a prime number\n";
     }
     else{
