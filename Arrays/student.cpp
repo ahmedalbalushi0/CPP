@@ -15,7 +15,7 @@ int main(){
     int size = sizeof(marks)/ sizeof(int);
     cout <<"size of array marks: " << size << endl;
 
-    for(int i=0;i<=size;i++){
+    for(int i=0;i<size;i++){
         cout <<"index (" <<i << ") = "<< marks[i]<< endl;
     }
 
